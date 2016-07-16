@@ -1,0 +1,32 @@
+{
+  "name": "react-redux-es6-boilerplate",
+  "version": "1.0.0",
+  "description": "React Redux ES6 Babel Boilerplate Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianykim/react-redux-es6-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianykim/react-redux-es6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/brianykim/react-redux-es6-boilerplate#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.1"
+  }
+}
