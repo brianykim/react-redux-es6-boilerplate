@@ -4,6 +4,8 @@ Built with: Express Generator
 Views Engine: EJS
 React Bundler: Webpack
 
+Instructions to use:
+
 
 #Directory structure
 + app.js
